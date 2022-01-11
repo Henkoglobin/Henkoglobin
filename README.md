@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Henkoglobin, a passionate developer at [Aclue](www.aclue.de)!
+
+- 🌱 I’m currently learning Go and React
+- 😄 Pronouns: he/him
+- 
 <!--
 **Henkoglobin/Henkoglobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
