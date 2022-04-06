@@ -1,1 +1,0 @@
-# Scripting in SoapUI for Fun and Profit
