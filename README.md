@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Henkoglobin, a passionate developer at [Aclue](www.aclue.de)!
+I'm Henkoglobin, a passionate developer at [Aclue](http://www.aclue.de)!
 
 - 🌱 I’m currently learning Go and React
 - 😄 Pronouns: he/him
