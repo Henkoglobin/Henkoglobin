@@ -2,9 +2,11 @@
 
 I'm Henkoglobin, a passionate developer at [Aclue](http://www.aclue.de)!
 
-- 🌱 I’m currently learning Go and React
 - 😄 Pronouns: he/him
-- 
+- 🌱 I’m currently learning Go and React
+- 🎮 I'm interested in Game Development, especially for the Nintendo Game Boy (Advance)
+- 📝 I'm (sometimes) blogging on [https://henkoglobin.github.io](henkoglobin.github.io)
+
 <!--
 **Henkoglobin/Henkoglobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
