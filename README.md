@@ -6,6 +6,7 @@ I'm Henkoglobin, a passionate developer at [Aclue](http://www.aclue.de)!
 - 🌱 I’m currently learning Go and React
 - 🎮 I'm interested in Game Development, especially for the Nintendo Game Boy (Advance)
 - 📝 I'm (sometimes) blogging on [henkoglobin.github.io](https://henkoglobin.github.io)
+- 🌑 My favorite programming language is [Lua](https://www.lua.org)
 
 <!--
 **Henkoglobin/Henkoglobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
