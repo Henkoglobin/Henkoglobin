@@ -4,10 +4,11 @@ I'm Henkoglobin, a passionate developer at [Aclue](http://www.aclue.de)!
 
 - 😄 Pronouns: he/him
 - 🌱 I’m looking forward to giving 🦀Rust a spin 
+  - 🔭 currently trying out 🚀Rocket and 🌊sea-orm
 - 🎮 I'm interested in Game Development, especially for the Nintendo Game Boy (Advance)
 - 📝 I'm (sometimes) blogging on [henkoglobin.github.io](https://henkoglobin.github.io)
 - 🌑 My favorite programming language is [Lua](https://www.lua.org)
-- ⚡ Fun Fact: [lazylualinq](https://henkoglobin.github.io/lazylualinq/) started out as a part of my bachelor's degree
+  - ⚡ Fun Fact: [lazylualinq](https://henkoglobin.github.io/lazylualinq/) started out as a part of my bachelor's degree
 
 <!--
 **Henkoglobin/Henkoglobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
