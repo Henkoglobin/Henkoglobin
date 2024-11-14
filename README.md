@@ -9,6 +9,10 @@ I'm Henkoglobin, a passionate developer and _Senior Consultant_ at [Aclue](http:
 - 📝 I'm (rarely) blogging on [henkoglobin.github.io](https://henkoglobin.github.io)
 - 🌑 My favorite programming language is [Lua](https://www.lua.org)
   - ⚡ Fun Fact: [lazylualinq](https://henkoglobin.github.io/lazylualinq/) started out as a part of my bachelor's degree
+- 📖 I'm an avid reader of Fantasy books, mostly...
+  - Anything by [Brandon Sanderson](https://www.brandonsanderson.com/) (Mistborn, Stormlight Archive, ...)
+  - Progression Fantasy novels by [Andrew Rowe](https://andrewkrowe.wordpress.com/) (Arcane Ascension, Weapons & Wielders, ...)
+  - I also enjoy the occasional SciFi book, preferably the Bobiverse series by [Dennis E. Taylor](http://dennisetaylor.org/)
 
 When I'm not writing code for fun and/or profit, I...
 - ⚔️ regularly play Dungeons & Dragons 5E.
