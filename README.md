@@ -17,6 +17,7 @@ When I'm not writing code for fun and/or profit, I...
   - I'm also playing as DM on our [Icewind Dale: Rime of the Frostmaiden](https://www.dndbeyond.com/sources/dnd/idrotf) campaign
 - ⚒️ love playing Minecraft with my friends.
   - Check out my current base [on our BlueMap](https://minecraft-map.timo-linde.de/#world:-1618:191:1250:88:0:0:0:1:flat)
+- ⛵ have re-discovered my love for the Anno series and play lots of Anno 1800
 - 📖 am an avid reader of Fantasy books, mostly...
   - Anything by [Brandon Sanderson](https://www.brandonsanderson.com/) (Mistborn, Stormlight Archive, ...)
   - Progression Fantasy novels by [Andrew Rowe](https://andrewkrowe.wordpress.com/) (Arcane Ascension, Weapons & Wielders, ...)
